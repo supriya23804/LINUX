@@ -20,6 +20,9 @@ net=$((gross - expense))
 
 echo
 echo "Report:"
+echo "------------------"
+echo "employee No: $empno"
+echo "employee Name: $name"
 echo "Bonus 20% from Salary: $bonus rupees"
 echo "Gross Pay: $gross rupees"
 echo "Expense 5% from Salary: $expense rupees"
